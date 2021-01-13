@@ -1,0 +1,1368 @@
+﻿Log file open, 01/12/21 23:54:59
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: GITHUB
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.288793
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/lawre/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Engine.ini]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Engine.ini]
+[2021.01.12-23.55.00:370][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Engine.ini]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Engine.ini]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.01.12-23.55.00:370][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Engine.ini]
+[2021.01.12-23.55.00:370][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Engine.ini]
+[2021.01.12-23.55.00:377][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.12-23.55.00:378][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.01.12-23.55.00:379][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.12-23.55.00:379][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.12-23.55.00:379][  0]LogHAL: Display: Platform has ~ 16 GB [17052733440 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.12-23.55.00:379][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.12-23.55.00:379][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.12-23.55.00:379][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.12-23.55.00:380][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.01.12-23.55.00:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.12-23.55.00:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.01.12-23.55.00:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.12-23.55.00:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.12-23.55.00:381][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.12-23.55.00:381][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-23.55.00:381][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.12-23.55.00:381][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.12-23.55.00:381][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Scalability.ini]
+[2021.01.12-23.55.00:381][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.01.12-23.55.00:381][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.01.12-23.55.00:381][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.01.12-23.55.00:381][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.12-23.55.00:381][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.12-23.55.00:381][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.12-23.55.00:381][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.01.12-23.55.00:381][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/DD-PRODUCTION/UE4/GITHUB/Saved/Config/Windows/Engine.ini]
+[2021.01.12-23.55.00:381][  0]LogInit: Computer: PHANTOM
+[2021.01.12-23.55.00:381][  0]LogInit: User: lawrence
+[2021.01.12-23.55.00:381][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.01.12-23.55.00:381][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.12-23.55.00:381][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.01.12-23.55.00:381][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.12-23.55.00:381][  0]LogMemory: Process Physical Memory: 135.95 MB used, 135.96 MB peak
+[2021.01.12-23.55.00:381][  0]LogMemory: Process Virtual Memory: 120.55 MB used, 120.55 MB peak
+[2021.01.12-23.55.00:381][  0]LogMemory: Physical Memory: 6193.41 MB used,  10069.34 MB free, 16262.75 MB total
+[2021.01.12-23.55.00:381][  0]LogMemory: Virtual Memory: 134206728.00 MB used,  10999.08 MB free, 134217728.00 MB total
+[2021.01.12-23.55.01:097][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.12-23.55.01:134][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.01.12-23.55.01:138][  0]LogInit: Using OS detected language (en-GB).
+[2021.01.12-23.55.01:138][  0]LogInit: Using OS detected locale (en-GB).
+[2021.01.12-23.55.01:145][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.01.12-23.55.01:359][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.12-23.55.01:381][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.01.12-23.55.01:414][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.12-23.55.01:414][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.12-23.55.01:672][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.12-23.55.01:672][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.12-23.55.01:672][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.12-23.55.01:672][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.12-23.55.01:726][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2021.01.12-23.55.01:726][  0]LogD3D11RHI:       3040/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.01.12-23.55.01:738][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2021.01.12-23.55.01:738][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.01.12-23.55.01:740][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.12-23.55.01:740][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.12-23.55.01:740][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.12-23.55.01:811][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.12-23.55.01:811][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.12-23.55.01:811][  0]LogWindows: EnumDisplayDevices:
+[2021.01.12-23.55.01:811][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2021.01.12-23.55.01:811][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.01.12-23.55.01:812][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.01.12-23.55.01:812][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.01.12-23.55.01:812][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2021.01.12-23.55.01:812][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.01.12-23.55.01:812][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.01.12-23.55.01:812][  0]LogRHI: Texture pool is 2128 MB (70% of 3040 MB)
+[2021.01.12-23.55.01:840][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.01.12-23.55.01:840][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.12-23.55.01:840][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.01.12-23.55.01:856][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.12-23.55.01:858][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.01.12-23.55.02:439][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.12-23.55.02:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.12-23.55.02:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.12-23.55.02:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.12-23.55.02:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.12-23.55.02:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.12-23.55.02:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.12-23.55.02:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.12-23.55.02:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.12-23.55.02:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.12-23.55.02:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.12-23.55.02:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.12-23.55.02:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.12-23.55.02:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.01.12-23.55.02:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.12-23.55.02:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.12-23.55.02:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.12-23.55.02:535][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.12-23.55.02:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.12-23.55.02:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.12-23.55.02:578][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.12-23.55.02:578][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.12-23.55.02:587][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.01.12-23.55.02:596][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.01.12-23.55.02:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.01.12-23.55.02:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.01.12-23.55.02:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.12-23.55.02:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.12-23.55.02:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.12-23.55.02:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.12-23.55.02:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.12-23.55.02:670][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.12-23.55.02:670][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.12-23.55.02:679][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.12-23.55.02:750][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.01.12-23.55.02:750][  0]LogShaderCompilers: Guid format shader working directory is 18 characters bigger than the processId version (D:/DD-PRODUCTION/UE4/GITHUB/Intermediate/Shaders/WorkingDirectory/14008/).
+[2021.01.12-23.55.02:751][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lawre/AppData/Local/Temp/UnrealShaderWorkingDir/7840155C416B1CA45BB1FEA883F57864/'.
+[2021.01.12-23.55.02:751][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.12-23.55.02:751][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.12-23.55.03:589][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.12-23.55.03:644][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/lawre/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.01.12-23.55.03:644][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lawre/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.01.12-23.55.03:644][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/DD-PRODUCTION/UE4/GITHUB/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.12-23.55.03:644][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.12-23.55.03:644][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/DD-PRODUCTION/UE4/GITHUB/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.12-23.55.03:644][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.12-23.55.03:660][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.12-23.55.03:660][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.12-23.55.03:660][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.12-23.55.03:681][  0]LogDerivedDataCache: Speed tests for C:/Users/lawre/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.01.12-23.55.03:681][  0]LogDerivedDataCache: Display: Performance to C:/Users/lawre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=592.61MBs, RandomWriteSpeed=48.45MBs. Assigned SpeedClass 'Local'
+[2021.01.12-23.55.03:682][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lawre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.12-23.55.03:682][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.12-23.55.03:682][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.12-23.55.03:735][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.12-23.55.03:736][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.12-23.55.03:767][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2021.01.12-23.55.04:035][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.12-23.55.04:035][  0]LogInit: Active device profile: [0000023124E5BF00][0000023122F5CB00 49] Windows
+[2021.01.12-23.55.04:035][  0]LogInit: Profiles: [0000023124E5BF00][0000023122F5CB00 49] Windows, [0000023124E6BF00][00000231250E8C80 49] WindowsNoEditor, [0000023124E58200][00000231250ECE00 49] WindowsServer, [0000023124E68400][00000231250F0F80 49] WindowsClient, [0000023124E5BB00][00000231250F5100 49] IOS, [0000023124E6BC00][00000231250F9280 49] iPadAir, [0000023124E58600][00000231250FD400 49] iPadAir2, [0000023124E15A00][00000231250DF680 49] IPadPro, [0000023124E15B00][00000231251016C0 49] iPadAir3, [0000023124E5BC00][0000023125111800 49] iPadAir4, [0000023124E14800][0000023125115940 49] iPadMini2, [0000023124E58500][000002312511DAC0 49] iPadMini3, [0000023124E16300][0000023125121C40 49] iPadMini4, [0000023124E5B800][0000023125124100 49] iPadMini5, [0000023124E6B400][000002312512C3C0 49] iPhone6, [0000023124E69A00][0000023125128400 49] iPodTouch6, [0000023124E17D00][00000231251346C0 49] iPhone7, [0000023124E17E00][0000023125130700 49] iPodTouch7, [0000023124E68D00][0000023125138880 49] iPhone5S, [0000023124E15300][000002312513CA00 49] iPhone6Plus, [0000023124E6A300][0000023125140B80 49] iPhone6S, [0000023124E17500][0000023125144D00 49] iPhone6SPlus, [0000023124E68F00][0000023125148E80 49] iPhone7Plus, [0000023124E15400][000002312514D000 49] iPhoneSE, [0000023124E6A400][0000023125151180 49] iPhone8, [0000023124E17200][0000023125155300 49] iPhone8Plus, [0000023124E6AE00][0000023125159480 49] iPhoneX, [0000023124E15900][000002312515D600 49] iPhoneXS, [0000023124E69200][0000023125119740 49] iPhoneXSMax, [0000023124E15200][0000023125161880 49] iPhoneXR, [0000023124E69900][00000231251659C0 49] iPhone11, [0000023124E14200][000002312516DB40 49] iPhone11Pro, [0000023124E6AC00][0000023125171CC0 49] iPhone11ProMax, [0000023124E15600][0000023125174180 49] iPhoneSE2, [0000023124E6A800][0000023125178300 49] iPhone12Mini, [0000023124E14600][000002312517C480 49] iPhone12, [0000023124E6B000][0000023125180600 49] iPhone12Pro, [0000023124E14C00][0000023125184780 49] iPhone12ProMax, [0000023124E69E00][0000023125188900 49] iPadPro105, [0000023124E14700][000002312518CA80 49] iPadPro129, [0000023124E6B300][0000023125190C00 49] iPadPro97, [0000023124E15700][0000023125194D80 49] iPadPro2_129, [0000023124E69400][0000023125198F00 49] iPad5, [0000023124E16200][000002312519D080 49] iPad6, [0000023124E6B600][00000231251A1200 49] iPad7, [0000023124E15C00][00000231251A5380 49] iPad8, [0000023124E6B100][00000231251A9500 49] iPadPro11, [0000023124E15F00][00000231251AD680 49] iPadPro2_11, [0000023124E6BB00][00000231251697C0 49] iPadPro3_129, [0000023124E14500][00000231251B1900 49] iPadPro4_129, [0000023124E6AD00][00000231251B5A40 49] AppleTV, [0000023124E16E00][00000231251B9B80 49] AppleTV4K, [0000023124E69700][00000231251C1D00 49] TVOS, [0000023124E14A00][00000231251C41C0 49] Mac, [0000023124E69D00][00000231251C8340 49] MacClient, [0000023124E17900][00000231251CC4C0 49] MacNoEditor, [0000023124E68800][00000231251D0640 49] MacServer, [0000023124E16A00][00000231251D47C0 49] Linux, [0000023124E6A600][00000231251D8940 49] LinuxNoEditor, [0000023124E17400][00000231251DCAC0 49] LinuxAArch64NoEditor, [0000023124E6AA00][00000231251E0C40 49] LinuxClient, [0000023124E17700][00000231251E4DC0 49] LinuxAArch64Client, [0000023124E68700][00000231251E8F40 49] LinuxServer, [0000023124E17A00][00000231251ED0C0 49] LinuxAArch64Server, [0000023124E6B900][00000231251F1240 49] Android, [0000023124E14900][00000231251F53C0 49] Android_Low, [0000023124E6B700][00000231251F9540 49] Android_Mid, [0000023124E17F00][00000231251FD6C0 49] Android_High, [0000023124E58900][00000231251BD800 49] Android_Default, [0000023124EE0600][0000023125201940 49] Android_Adreno4xx, [0000023124E5A900][0000023125205A80 49] Android_Adreno5xx_Low, [0000023124EE1900][0000023125209BC0 49] Android_Adreno5xx, [0000023124E5B600][0000023125211D40 49] Android_Adreno6xx, [0000023124EE0500][0000023125214200 49] Android_Adreno6xx_Vulkan, [0000023124E5AA00][0000023125218380 49] Android_Mali_T6xx, [0000023124EE1A00][000002312521C500 49] Android_Mali_T7xx, [0000023124E58100][0000023125220680 49] Android_Mali_T8xx, [0000023124EE0E00][0000023125224800 49] Android_Mali_G71, [0000023124E5A100][0000023125228980 49] Android_Mali_G72, [0000023124EE1000][000002312522CB00 49] Android_Mali_G72_Vulkan, [0000023124E59000][0000023125230C80 49] Android_Mali_G76, [0000023124EE1100][0000023125234E00 49] Android_Mali_G76_Vulkan, [0000023124E59500][0000023125238F80 49] Android_Mali_G77, [0000023124EE0100][000002312523D100 49] Android_Mali_G77_Vulkan, [0000023124E5BD00][0000023125241280 49] Android_Vulkan_SM5, [0000023124EE1200][0000023125245400 49] Android_PowerVR_G6xxx, [0000023124E5B300][0000023125249580 49] Android_PowerVR_GT7xxx, [0000023124EE1B00][000002312524D700 49] Android_PowerVR_GE8xxx, [0000023124E5AC00][0000023125251880 49] Android_PowerVR_GM9xxx, [0000023124EE1600][000002312520D9C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000023124E59200][0000023125255B00 49] Android_TegraK1, [0000023124E17600][0000023125259C40 49] Android_Unknown_Vulkan, [0000023124E58D00][0000023125260100 49] Lumin, [0000023124E15E00][0000023125264280 49] Lumin_Desktop, [0000023124E58800][0000023125268400 49] HoloLens, 
+[2021.01.12-23.55.04:160][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.12-23.55.04:160][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.12-23.55.04:160][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.12-23.55.04:160][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.12-23.55.04:160][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.12-23.55.04:183][  0]LogNetVersion: GITHUB 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 694050866)
+[2021.01.12-23.55.04:698][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.01.12-23.55.04:766][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.067069 seconds
+[2021.01.12-23.55.04:771][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.01.12-23.55.04:771][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.01.12-23.55.04:771][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.12-23.55.05:196][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.12-23.55.05:201][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.12-23.55.05:300][  0]SourceControl: Source control is disabled
+[2021.01.12-23.55.05:892][  0]LogUProjectInfo: Found projects:
+[2021.01.12-23.55.05:900][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.01.12-23.55.05:901][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.01.12-23.55.06:158][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.12-23.55.06:181][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.12-23.55.06:181][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.12-23.55.06:236][  0]LogCollectionManager: Loaded 0 collections in 0.002058 seconds
+[2021.01.12-23.55.06:260][  0]LogFileCache: Scanning file cache for directory 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/Collections/' took 0.00s
+[2021.01.12-23.55.06:260][  0]LogFileCache: Scanning file cache for directory 'D:/DD-PRODUCTION/UE4/GITHUB/Content/Developers/lawrence/Collections/' took 0.00s
+[2021.01.12-23.55.06:260][  0]LogFileCache: Scanning file cache for directory 'D:/DD-PRODUCTION/UE4/GITHUB/Content/Collections/' took 0.00s
+[2021.01.12-23.55.06:260][  0]LogOcInput: OculusInput pre-init called
+[2021.01.12-23.55.06:274][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.12-23.55.06:274][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.12-23.55.06:325][  0]LogEngine: Initializing Engine...
+[2021.01.12-23.55.06:326][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.12-23.55.06:326][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.01.12-23.55.06:327][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.12-23.55.06:446][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.12-23.55.06:454][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.12-23.55.06:474][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.01.12-23.55.06:480][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.01.12-23.55.06:480][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.01.12-23.55.06:480][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.12-23.55.06:480][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.12-23.55.06:480][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.12-23.55.06:480][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.12-23.55.06:480][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.12-23.55.06:480][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.12-23.55.06:480][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.12-23.55.06:480][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.12-23.55.06:480][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.12-23.55.06:480][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.12-23.55.06:536][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.12-23.55.06:536][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.12-23.55.06:536][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.12-23.55.06:536][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.12-23.55.06:536][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.01.12-23.55.06:536][  0]LogAudioMixer: Display: 5: BackRight
+[2021.01.12-23.55.06:536][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.01.12-23.55.06:536][  0]LogAudioMixer: Display: 7: SideRight
+[2021.01.12-23.55.06:949][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.01.12-23.55.06:952][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.12-23.55.06:954][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.12-23.55.06:954][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.12-23.55.06:956][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.12-23.55.06:956][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.12-23.55.06:956][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.12-23.55.06:957][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.12-23.55.06:957][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.12-23.55.06:957][  0]LogInit: FAudioDevice initialized.
+[2021.01.12-23.55.06:957][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.01.12-23.55.06:957][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.12-23.55.07:132][  0]LogDerivedDataCache: Saved boot cache 0.17s 77MB C:/Users/lawre/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.01.12-23.55.07:133][  0]LogInit: Texture streaming: Enabled
+[2021.01.12-23.55.07:148][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.01.12-23.55.07:154][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.12-23.55.07:154][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.12-23.55.07:160][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.12-23.55.07:194][  0]LogInit: Transaction tracking system initialized
+[2021.01.12-23.55.07:218][  0]BlueprintLog: New page: Editor Load
+[2021.01.12-23.55.07:294][  0]LocalizationService: Localization service is disabled
+[2021.01.12-23.55.07:320][  0]TimingProfiler: Initialize
+[2021.01.12-23.55.07:320][  0]TimingProfiler: OnSessionChanged
+[2021.01.12-23.55.07:320][  0]LoadingProfiler: Initialize
+[2021.01.12-23.55.07:320][  0]LoadingProfiler: OnSessionChanged
+[2021.01.12-23.55.07:320][  0]NetworkingProfiler: Initialize
+[2021.01.12-23.55.07:320][  0]NetworkingProfiler: OnSessionChanged
+[2021.01.12-23.55.07:320][  0]MemoryProfiler: Initialize
+[2021.01.12-23.55.07:320][  0]MemoryProfiler: OnSessionChanged
+[2021.01.12-23.55.07:379][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.01.12-23.55.07:380][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.01.12-23.55.07:484][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.01.12-23.55.07:484][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.12-23.55.07:669][  0]LogFileCache: Scanning file cache for directory 'D:/DD-PRODUCTION/UE4/GITHUB/Content/' took 0.01s
+[2021.01.12-23.55.07:911][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.002
+[2021.01.12-23.55.07:911][  0]Cmd: MAP LOAD FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.12-23.55.07:911][  0]LightingResults: New page: Lighting Build
+[2021.01.12-23.55.07:912][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.12-23.55.07:912][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.12-23.55.07:913][  0]MapCheck: New page: Map Check
+[2021.01.12-23.55.07:913][  0]LightingResults: New page: Lighting Build
+[2021.01.12-23.55.07:920][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.01.12-23.55.08:026][  0]LogStaticMesh: Building static mesh SM_Statue...
+[2021.01.12-23.55.08:063][  0]LogStaticMesh: Built static mesh [0.04s] /Game/FARSIGHT/StarterContent/Props/SM_Statue.SM_Statue
+[2021.01.12-23.55.08:072][  0]LogStaticMesh: Building static mesh SM_Chair...
+[2021.01.12-23.55.08:087][  0]LogStaticMesh: Built static mesh [0.02s] /Game/FARSIGHT/StarterContent/Props/SM_Chair.SM_Chair
+[2021.01.12-23.55.08:099][  0]LogStaticMesh: Building static mesh SM_TableRound...
+[2021.01.12-23.55.08:140][  0]LogStaticMesh: Built static mesh [0.04s] /Game/FARSIGHT/StarterContent/Props/SM_TableRound.SM_TableRound
+[2021.01.12-23.55.08:157][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2021.01.12-23.55.08:158][  0]LogStaticMesh: Built static mesh [0.00s] /Game/FARSIGHT/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.01.12-23.55.08:206][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2021.01.12-23.55.08:210][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.12-23.55.08:210][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.01.12-23.55.08:219][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.01.12-23.55.08:219][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.12-23.55.08:219][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2021.01.12-23.55.08:219][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.309
+[2021.01.12-23.55.08:221][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.312
+[2021.01.12-23.55.08:372][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-23.55.08:383][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-23.55.08:392][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-23.55.08:399][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-23.55.08:423][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0152 seconds. Added 3601 classes and 859 folders.
+[2021.01.12-23.55.08:426][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.01.12-23.55.08:428][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.12-23.55.08:428][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:428][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.12-23.55.08:428][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.01.12-23.55.08:429][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.01.12-23.55.08:429][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:429][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.01.12-23.55.08:429][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.01.12-23.55.08:430][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.01.12-23.55.08:430][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:430][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.01.12-23.55.08:430][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.01.12-23.55.08:431][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.12-23.55.08:431][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:431][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.12-23.55.08:431][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.01.12-23.55.08:432][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.01.12-23.55.08:432][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:432][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.01.12-23.55.08:432][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.01.12-23.55.08:433][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.01.12-23.55.08:433][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:433][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.01.12-23.55.08:433][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.01.12-23.55.08:433][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.01.12-23.55.08:433][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:433][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.01.12-23.55.08:433][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.01.12-23.55.08:434][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.01.12-23.55.08:434][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:434][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.01.12-23.55.08:434][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.01.12-23.55.08:435][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.12-23.55.08:435][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:435][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.12-23.55.08:435][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.01.12-23.55.08:436][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.01.12-23.55.08:436][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:436][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.01.12-23.55.08:436][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.01.12-23.55.08:436][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.01.12-23.55.08:436][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:436][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.01.12-23.55.08:436][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.01.12-23.55.08:437][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.12-23.55.08:437][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:437][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.12-23.55.08:437][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.01.12-23.55.08:438][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.12-23.55.08:438][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:438][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.12-23.55.08:438][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.01.12-23.55.08:439][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.12-23.55.08:439][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:439][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.12-23.55.08:439][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.01.12-23.55.08:440][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.01.12-23.55.08:440][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:440][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.01.12-23.55.08:440][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.01.12-23.55.08:441][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.12-23.55.08:441][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:441][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.12-23.55.08:441][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.01.12-23.55.08:442][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.01.12-23.55.08:442][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:442][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.01.12-23.55.08:442][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.01.12-23.55.08:443][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.12-23.55.08:443][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:443][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.12-23.55.08:443][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.01.12-23.55.08:444][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.12-23.55.08:444][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:444][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.12-23.55.08:444][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.01.12-23.55.08:445][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.12-23.55.08:445][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:445][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.12-23.55.08:445][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.01.12-23.55.08:445][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.12-23.55.08:446][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:446][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.12-23.55.08:446][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.01.12-23.55.08:446][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.12-23.55.08:446][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:446][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.12-23.55.08:446][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.01.12-23.55.08:447][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.01.12-23.55.08:447][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:447][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.01.12-23.55.08:447][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.01.12-23.55.08:448][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.12-23.55.08:448][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:448][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.12-23.55.08:448][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.01.12-23.55.08:449][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.12-23.55.08:449][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:449][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.12-23.55.08:449][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.01.12-23.55.08:449][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.01.12-23.55.08:449][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.12-23.55.08:449][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.01.12-23.55.08:449][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.01.12-23.55.08:532][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.12-23.55.08:533][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.01.12-23.55.08:553][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2021.01.12-23.55.08:562][  0]LogSlate: The tab "ConcertBrowser" attempted to spawn but failed for some reason. It will not be displayed but it will still be saved in the layout settings file.
+[2021.01.12-23.55.08:609][  0]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.12-23.55.08:611][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.12-23.55.08:617][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.12-23.55.08:760][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.01.12-23.55.08:869][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.12-23.55.08:869][  0]LogLoad: (Engine Initialization) Total time: 9.96 seconds
+[2021.01.12-23.55.08:869][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.12-23.55.08:869][  0]LogInit: First time updating LLM stats...
+[2021.01.12-23.55.08:919][  0]LogAssetRegistry: Asset discovery search completed in 5.1540 seconds
+[2021.01.12-23.55.08:920][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.01.12-23.55.08:956][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.12-23.55.09:013][  2]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.12-23.56.22:577][ 75]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.12-23.56.22:604][ 75]LogLinker: Warning: [AssetLog] D:\DD-PRODUCTION\UE4\GITHUB\Content\FARSIGHT\StarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to load '/Game/FARSIGHT/StarterContent/Textures/T_CobbleStone_Pebble_D': Can't find file.
+[2021.01.12-23.56.22:605][ 75]LogLinker: Warning: [AssetLog] D:\DD-PRODUCTION\UE4\GITHUB\Content\FARSIGHT\StarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to load '/Game/FARSIGHT/StarterContent/Textures/T_CobbleStone_Pebble_D': Can't find file.
+[2021.01.12-23.56.22:605][ 75]LogLinker: Warning: [AssetLog] D:\DD-PRODUCTION\UE4\GITHUB\Content\FARSIGHT\StarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to load '/Game/FARSIGHT/StarterContent/Textures/T_CobbleStone_Pebble_M': Can't find file.
+[2021.01.12-23.56.22:605][ 75]LogLinker: Warning: [AssetLog] D:\DD-PRODUCTION\UE4\GITHUB\Content\FARSIGHT\StarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to load '/Game/FARSIGHT/StarterContent/Textures/T_CobbleStone_Pebble_M': Can't find file.
+[2021.01.12-23.56.22:605][ 75]LogLinker: Warning: [AssetLog] D:\DD-PRODUCTION\UE4\GITHUB\Content\FARSIGHT\StarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to load '/Game/FARSIGHT/StarterContent/Textures/T_CobbleStone_Pebble_N': Can't find file.
+[2021.01.12-23.56.22:605][ 75]LogLinker: Warning: [AssetLog] D:\DD-PRODUCTION\UE4\GITHUB\Content\FARSIGHT\StarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to load '/Game/FARSIGHT/StarterContent/Textures/T_CobbleStone_Pebble_N': Can't find file.
+[2021.01.12-23.56.22:605][ 75]LogLinker: Warning: [AssetLog] D:\DD-PRODUCTION\UE4\GITHUB\Content\FARSIGHT\StarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to load '/Game/FARSIGHT/StarterContent/Textures/T_CobbleStone_Pebble_D': Can't find file.
+[2021.01.12-23.56.22:606][ 75]LogLinker: Warning: [AssetLog] D:\DD-PRODUCTION\UE4\GITHUB\Content\FARSIGHT\StarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to load '/Game/FARSIGHT/StarterContent/Textures/T_CobbleStone_Pebble_M': Can't find file.
+[2021.01.12-23.56.22:606][ 75]LogLinker: Warning: [AssetLog] D:\DD-PRODUCTION\UE4\GITHUB\Content\FARSIGHT\StarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to load '/Game/FARSIGHT/StarterContent/Textures/T_CobbleStone_Pebble_N': Can't find file.
+[2021.01.12-23.56.22:606][ 75]LogLinker: Warning: [AssetLog] D:\DD-PRODUCTION\UE4\GITHUB\Content\FARSIGHT\StarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to load '/Game/FARSIGHT/StarterContent/Textures/T_CobbleStone_Pebble_D': Can't find file.
+[2021.01.12-23.56.22:606][ 75]LoadErrors: Failed to load /Game/FARSIGHT/StarterContent/Textures/T_CobbleStone_Pebble_D.T_CobbleStone_Pebble_D Referenced by M_CobbleStone_Pebble
+[2021.01.12-23.56.22:606][ 75]LogLinker: Warning: [AssetLog] D:\DD-PRODUCTION\UE4\GITHUB\Content\FARSIGHT\StarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to load '/Game/FARSIGHT/StarterContent/Textures/T_CobbleStone_Pebble_N': Can't find file.
+[2021.01.12-23.56.22:606][ 75]LoadErrors: Failed to load /Game/FARSIGHT/StarterContent/Textures/T_CobbleStone_Pebble_N.T_CobbleStone_Pebble_N Referenced by M_CobbleStone_Pebble
+[2021.01.12-23.56.22:607][ 75]LogLinker: Warning: [AssetLog] D:\DD-PRODUCTION\UE4\GITHUB\Content\FARSIGHT\StarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to load '/Game/FARSIGHT/StarterContent/Textures/T_CobbleStone_Pebble_M': Can't find file.
+[2021.01.12-23.56.22:607][ 75]LoadErrors: Failed to load /Game/FARSIGHT/StarterContent/Textures/T_CobbleStone_Pebble_M.T_CobbleStone_Pebble_M Referenced by M_CobbleStone_Pebble
+[2021.01.12-23.56.22:607][ 75]LogLinker: Warning: [AssetLog] D:\DD-PRODUCTION\UE4\GITHUB\Content\FARSIGHT\StarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to load '/Game/FARSIGHT/StarterContent/Textures/T_CobbleStone_Pebble_D': Can't find file.
+[2021.01.12-23.56.22:607][ 75]LoadErrors: Failed to load /Game/FARSIGHT/StarterContent/Textures/T_CobbleStone_Pebble_D.T_CobbleStone_Pebble_D Referenced by MaterialExpressionTextureSample_3
+[2021.01.12-23.56.22:607][ 75]LogLinker: Warning: [AssetLog] D:\DD-PRODUCTION\UE4\GITHUB\Content\FARSIGHT\StarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to load '/Game/FARSIGHT/StarterContent/Textures/T_CobbleStone_Pebble_N': Can't find file.
+[2021.01.12-23.56.22:607][ 75]LoadErrors: Failed to load /Game/FARSIGHT/StarterContent/Textures/T_CobbleStone_Pebble_N.T_CobbleStone_Pebble_N Referenced by MaterialExpressionTextureSample_4
+[2021.01.12-23.56.22:607][ 75]LogLinker: Warning: [AssetLog] D:\DD-PRODUCTION\UE4\GITHUB\Content\FARSIGHT\StarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to load '/Game/FARSIGHT/StarterContent/Textures/T_CobbleStone_Pebble_M': Can't find file.
+[2021.01.12-23.56.22:608][ 75]LoadErrors: Failed to load /Game/FARSIGHT/StarterContent/Textures/T_CobbleStone_Pebble_M.T_CobbleStone_Pebble_M Referenced by MaterialExpressionTextureSample_5
+[2021.01.12-23.56.22:611][ 75]LogMaterial: Display: Missing cached shader map for material M_CobbleStone_Pebble, compiling. 
+[2021.01.12-23.56.22:612][ 75]LogMaterial: Warning: [AssetLog] D:\DD-PRODUCTION\UE4\GITHUB\Content\FARSIGHT\StarterContent\Materials\M_CobbleStone_Pebble.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.01.12-23.56.22:612][ 75]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.01.12-23.56.22:768][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_CobbleStone_RoughAF88B89C4186786321902B8FB4F0DD6F.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_CobbleStone_Rough.uasset'
+[2021.01.12-23.56.23:009][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_CobbleStone_Rough" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" SILENT=true
+[2021.01.12-23.56.23:013][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_CobbleStone_Rough63FCD73C43485B187B51049756DC5CC2.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset'
+[2021.01.12-23.56.23:073][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_CobbleStone_Smooth7916319E4DE9CF98D8EB0387E159444B.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_CobbleStone_Smooth.uasset'
+[2021.01.12-23.56.23:350][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_CobbleStone_Smooth" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" SILENT=true
+[2021.01.12-23.56.23:352][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_CobbleStone_Smooth8823202B4EB19B0A2602FCA1668C6D99.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset'
+[2021.01.12-23.56.23:385][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_ColorGrid_LowSpecEA3DE00341EEBEEAA6FFE99B62B8DEA3.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_ColorGrid_LowSpec.uasset'
+[2021.01.12-23.56.23:632][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_ColorGrid_LowSpec" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" SILENT=true
+[2021.01.12-23.56.23:635][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_ColorGrid_LowSpec175B9EE44D43708A0D2682940D57D438.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset'
+[2021.01.12-23.56.23:659][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Materials/M_Concrete_Grime" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Concrete_Grime.uasset" SILENT=true
+[2021.01.12-23.56.23:675][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Concrete_Grime521EB1C140B9FCAC4A424F8993853F43.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Concrete_Grime.uasset'
+[2021.01.12-23.56.23:904][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Concrete_Grime" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Concrete_Grime.uasset" SILENT=true
+[2021.01.12-23.56.23:907][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Concrete_Grime66ECD688404AB674A419EE97278DA922.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Concrete_Grime.uasset'
+[2021.01.12-23.56.23:932][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Materials/M_Concrete_Panels" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Concrete_Panels.uasset" SILENT=true
+[2021.01.12-23.56.23:946][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Concrete_PanelsD08398FD4C655486022F909D7E525341.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Concrete_Panels.uasset'
+[2021.01.12-23.56.24:170][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Concrete_Panels" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Concrete_Panels.uasset" SILENT=true
+[2021.01.12-23.56.24:172][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Concrete_PanelsA7D27BB14D0D734A8B00B48D8CEF43EA.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Concrete_Panels.uasset'
+[2021.01.12-23.56.24:197][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Materials/M_Concrete_Poured" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Concrete_Poured.uasset" SILENT=true
+[2021.01.12-23.56.24:211][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Concrete_PouredC81A134545665D5821AE10BC86200E0D.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Concrete_Poured.uasset'
+[2021.01.12-23.56.24:437][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Concrete_Poured" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Concrete_Poured.uasset" SILENT=true
+[2021.01.12-23.56.24:440][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Concrete_Poured67C0B28D4B4AD48E79C88881AC48CABE.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Concrete_Poured.uasset'
+[2021.01.12-23.56.24:464][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Materials/M_Concrete_Tiles" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Concrete_Tiles.uasset" SILENT=true
+[2021.01.12-23.56.24:479][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Concrete_TilesA20F908F45CA322431069D85277C7494.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Concrete_Tiles.uasset'
+[2021.01.12-23.56.24:728][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Concrete_Tiles" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" SILENT=true
+[2021.01.12-23.56.24:730][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Concrete_TilesB4B80639479C315B67FB5AB29161BB78.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Concrete_Tiles.uasset'
+[2021.01.12-23.56.24:754][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Materials/M_Glass" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Glass.uasset" SILENT=true
+[2021.01.12-23.56.24:764][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_GlassF2CFFA51443350B960ED72B2EB8F0FCE.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Glass.uasset'
+[2021.01.12-23.56.24:998][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Glass" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Glass.uasset" SILENT=true
+[2021.01.12-23.56.25:001][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_GlassCEA47F0349A56467A7CE35A26ED6A47B.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Glass.uasset'
+[2021.01.12-23.56.25:024][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Materials/M_Ground_Grass" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Ground_Grass.uasset" SILENT=true
+[2021.01.12-23.56.25:040][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Ground_Grass4A848D0740EF391270A527ADAC915781.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Ground_Grass.uasset'
+[2021.01.12-23.56.25:272][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Ground_Grass" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Ground_Grass.uasset" SILENT=true
+[2021.01.12-23.56.25:275][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Ground_Grass112C605F426F0C944B89E0A27D259CF9.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Ground_Grass.uasset'
+[2021.01.12-23.56.25:300][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Materials/M_Ground_Gravel" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Ground_Gravel.uasset" SILENT=true
+[2021.01.12-23.56.25:314][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Ground_Gravel9339CBC14476F78A3BEBBB8DA54EA165.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Ground_Gravel.uasset'
+[2021.01.12-23.56.25:560][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Ground_Gravel" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Ground_Gravel.uasset" SILENT=true
+[2021.01.12-23.56.25:562][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Ground_GravelCA5F38F1457F891D4AC12A821B19D9C1.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Ground_Gravel.uasset'
+[2021.01.12-23.56.25:586][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Materials/M_Ground_Moss" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Ground_Moss.uasset" SILENT=true
+[2021.01.12-23.56.25:603][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Ground_Moss6354473548B3AF3E1497548DB6E4859E.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Ground_Moss.uasset'
+[2021.01.12-23.56.25:849][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Ground_Moss" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Ground_Moss.uasset" SILENT=true
+[2021.01.12-23.56.25:851][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Ground_Moss35322128473E3277AC4C6CB6B4C30629.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Ground_Moss.uasset'
+[2021.01.12-23.56.25:877][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Materials/M_Metal_Chrome" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Metal_Chrome.uasset" SILENT=true
+[2021.01.12-23.56.25:887][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Metal_Chrome0CD02A8D47C4A6339FD929BEE2808C3B.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Metal_Chrome.uasset'
+[2021.01.12-23.56.26:130][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Metal_Chrome" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Metal_Chrome.uasset" SILENT=true
+[2021.01.12-23.56.26:132][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Metal_ChromeE25295A54B76AC3E7F1D6A85E974F165.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Metal_Chrome.uasset'
+[2021.01.12-23.56.26:158][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Materials/M_Metal_Gold" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Metal_Gold.uasset" SILENT=true
+[2021.01.12-23.56.26:170][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Metal_Gold76D7FB7C44107FEED916748EA32CE387.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Metal_Gold.uasset'
+[2021.01.12-23.56.26:392][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Metal_Gold" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Metal_Gold.uasset" SILENT=true
+[2021.01.12-23.56.26:395][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Metal_Gold7C267B694D254080940FAB815B6A1067.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Metal_Gold.uasset'
+[2021.01.12-23.56.26:421][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Materials/M_Metal_Rust" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Metal_Rust.uasset" SILENT=true
+[2021.01.12-23.56.26:433][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Metal_Rust600EB155464AB7B83EC3AFAB412691FD.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Metal_Rust.uasset'
+[2021.01.12-23.56.26:661][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Metal_Rust" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Metal_Rust.uasset" SILENT=true
+[2021.01.12-23.56.26:663][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Metal_RustACFCC2474E4285E47FC39B9934402E07.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Metal_Rust.uasset'
+[2021.01.12-23.56.26:687][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Materials/M_Metal_Steel" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Metal_Steel.uasset" SILENT=true
+[2021.01.12-23.56.26:700][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Metal_Steel854A4A9B41F794410E352596E0B55B8F.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Metal_Steel.uasset'
+[2021.01.12-23.56.26:949][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Metal_Steel" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Metal_Steel.uasset" SILENT=true
+[2021.01.12-23.56.26:951][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Metal_SteelF40A00CC420A7FB6CBD3A982D28669B6.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Metal_Steel.uasset'
+[2021.01.12-23.56.26:978][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Materials/M_Rock_Basalt" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Rock_Basalt.uasset" SILENT=true
+[2021.01.12-23.56.26:995][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Rock_BasaltB4702C284E1AD58DC624AC878177E0B9.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Rock_Basalt.uasset'
+[2021.01.12-23.56.27:219][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Rock_Basalt" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Rock_Basalt.uasset" SILENT=true
+[2021.01.12-23.56.27:222][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Rock_BasaltA95E9D274BBAEBC322B78699EA30477D.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Rock_Basalt.uasset'
+[2021.01.12-23.56.27:264][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Rock_Marble_Polished6DAB2A214144422BA0700D96F5CC6517.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Rock_Marble_Polished.uasset'
+[2021.01.12-23.56.27:502][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Rock_Marble_Polished" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" SILENT=true
+[2021.01.12-23.56.27:505][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Rock_Marble_Polished7BDCFD0C4C7606DBCF7E91A8DA282B5E.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset'
+[2021.01.12-23.56.27:531][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Materials/M_Rock_Sandstone" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Rock_Sandstone.uasset" SILENT=true
+[2021.01.12-23.56.27:547][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Rock_SandstoneB8718BE54BD6F85D42306A9257218584.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Rock_Sandstone.uasset'
+[2021.01.12-23.56.27:787][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Rock_Sandstone" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" SILENT=true
+[2021.01.12-23.56.27:789][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Rock_SandstoneA9F7E07D41F6E726DDDDB5B02133EB90.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Rock_Sandstone.uasset'
+[2021.01.12-23.56.27:814][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Materials/M_Rock_Slate" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Rock_Slate.uasset" SILENT=true
+[2021.01.12-23.56.27:830][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Rock_SlateDAC7B7E740EFBD4BE052E0B28230760A.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Rock_Slate.uasset'
+[2021.01.12-23.56.28:070][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Rock_Slate" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Rock_Slate.uasset" SILENT=true
+[2021.01.12-23.56.28:073][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Rock_SlateAC5258AD4084A312DCB5D5A1FA2F39C9.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Rock_Slate.uasset'
+[2021.01.12-23.56.28:099][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Materials/M_Tech_Checker_Dot" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Tech_Checker_Dot.uasset" SILENT=true
+[2021.01.12-23.56.28:113][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Tech_Checker_DotC7CD151E47C5290FF5A7B88B3CFE2CB8.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Tech_Checker_Dot.uasset'
+[2021.01.12-23.56.28:351][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Tech_Checker_Dot" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" SILENT=true
+[2021.01.12-23.56.28:353][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Tech_Checker_Dot4982B9A642619BD57FDAEF84ADFFB6FA.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset'
+[2021.01.12-23.56.28:380][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Materials/M_Tech_Hex_Tile" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Tech_Hex_Tile.uasset" SILENT=true
+[2021.01.12-23.56.28:392][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Tech_Hex_Tile53F2A3F540BAF5E2FD6D578FB2AA6628.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Tech_Hex_Tile.uasset'
+[2021.01.12-23.56.28:631][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Tech_Hex_Tile" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" SILENT=true
+[2021.01.12-23.56.28:634][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Tech_Hex_TileFBD5E88C409A9E1F0A5D5197DC6E32F3.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset'
+[2021.01.12-23.56.28:675][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Tech_Hex_Tile_PulseE263F9B447C1791F8BED62A18D791923.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset'
+[2021.01.12-23.56.28:976][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" SILENT=true
+[2021.01.12-23.56.28:979][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Tech_Hex_Tile_Pulse147F67C24D32BA9E6778E790104E8B1F.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset'
+[2021.01.12-23.56.29:007][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Materials/M_Tech_Panel" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Tech_Panel.uasset" SILENT=true
+[2021.01.12-23.56.29:021][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Tech_Panel05302F5E4C5B851E226BADAF8DF7A446.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Tech_Panel.uasset'
+[2021.01.12-23.56.29:283][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Tech_Panel" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Tech_Panel.uasset" SILENT=true
+[2021.01.12-23.56.29:285][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Tech_PanelAB036EA44C7F9580413820B30FBC8389.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Tech_Panel.uasset'
+[2021.01.12-23.56.29:313][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Materials/M_Water_Lake" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Water_Lake.uasset" SILENT=true
+[2021.01.12-23.56.29:332][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Water_Lake081E0EC94521E272639CE6BF737D266D.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Water_Lake.uasset'
+[2021.01.12-23.56.29:569][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Water_Lake" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Water_Lake.uasset" SILENT=true
+[2021.01.12-23.56.29:571][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Water_Lake5D5D59CA4E12CB80B1EB3B96006D2BBC.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Water_Lake.uasset'
+[2021.01.12-23.56.29:599][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Materials/M_Water_Ocean" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Water_Ocean.uasset" SILENT=true
+[2021.01.12-23.56.29:616][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Water_Ocean06F22DC844953FD92BA277ACEF6E1CCF.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Water_Ocean.uasset'
+[2021.01.12-23.56.29:864][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Water_Ocean" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Water_Ocean.uasset" SILENT=true
+[2021.01.12-23.56.29:866][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Water_Ocean16E9A4104D0F30044BEB58BABA706BC4.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Water_Ocean.uasset'
+[2021.01.12-23.56.29:908][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Wood_Floor_Walnut_PolishedE2B31E21475D11F86CF49EA287C45869.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset'
+[2021.01.12-23.56.30:137][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Wood_Floor_Walnut_Polished4F8E961D42E70A324B3EDE89131B808F.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset'
+[2021.01.12-23.56.30:177][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Wood_Floor_Walnut_Worn21288AC34A0001AF053022A16956715F.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset'
+[2021.01.12-23.56.30:400][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" SILENT=true
+[2021.01.12-23.56.30:402][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Wood_Floor_Walnut_WornCF9792A34DC2EA4542C6E2A850396A20.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset'
+[2021.01.12-23.56.30:432][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Materials/M_Wood_Oak" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Wood_Oak.uasset" SILENT=true
+[2021.01.12-23.56.30:444][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Wood_OakD93B05CF4A2F47C8E815D5A4103B4C61.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Wood_Oak.uasset'
+[2021.01.12-23.56.30:676][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Wood_Oak" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Wood_Oak.uasset" SILENT=true
+[2021.01.12-23.56.30:679][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Wood_Oak0DAE9AA94CF24F59E17D8FB4670E5308.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Wood_Oak.uasset'
+[2021.01.12-23.56.30:707][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Materials/M_Wood_Pine" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Wood_Pine.uasset" SILENT=true
+[2021.01.12-23.56.30:722][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Wood_PineC72DB5AE4F94335EB94022A89111A379.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Wood_Pine.uasset'
+[2021.01.12-23.56.30:949][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Wood_Pine" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Wood_Pine.uasset" SILENT=true
+[2021.01.12-23.56.30:951][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Wood_PineEF0171384AB654938C3F31A059EE0B6F.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Wood_Pine.uasset'
+[2021.01.12-23.56.30:980][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Materials/M_Wood_Walnut" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Wood_Walnut.uasset" SILENT=true
+[2021.01.12-23.56.30:992][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Wood_Walnut702360DE4DBEDC0C88C68F9778161F3A.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_Wood_Walnut.uasset'
+[2021.01.12-23.56.31:206][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Wood_Walnut" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Wood_Walnut.uasset" SILENT=true
+[2021.01.12-23.56.31:209][ 75]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Wood_Walnut9796D7EB474101E917271FAE28F26A52.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Materials/M_Wood_Walnut.uasset'
+[2021.01.12-23.56.42:255][ 75]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.12-23.56.42:255][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_CobbleStone_Rough.M_CobbleStone_Rough
+[2021.01.12-23.56.42:255][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_CobbleStone_Smooth.M_CobbleStone_Smooth
+[2021.01.12-23.56.42:255][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_ColorGrid_LowSpec.M_ColorGrid_LowSpec
+[2021.01.12-23.56.42:255][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Concrete_Grime.M_Concrete_Grime
+[2021.01.12-23.56.42:255][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Concrete_Panels.M_Concrete_Panels
+[2021.01.12-23.56.42:255][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Concrete_Poured.M_Concrete_Poured
+[2021.01.12-23.56.42:255][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Concrete_Tiles.M_Concrete_Tiles
+[2021.01.12-23.56.42:255][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Glass.M_Glass
+[2021.01.12-23.56.42:255][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Ground_Grass.M_Ground_Grass
+[2021.01.12-23.56.42:255][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Ground_Gravel.M_Ground_Gravel
+[2021.01.12-23.56.42:255][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Ground_Moss.M_Ground_Moss
+[2021.01.12-23.56.42:255][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Metal_Chrome.M_Metal_Chrome
+[2021.01.12-23.56.42:255][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Metal_Gold.M_Metal_Gold
+[2021.01.12-23.56.42:255][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Metal_Rust.M_Metal_Rust
+[2021.01.12-23.56.42:255][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Metal_Steel.M_Metal_Steel
+[2021.01.12-23.56.42:255][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Rock_Basalt.M_Rock_Basalt
+[2021.01.12-23.56.42:255][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Rock_Marble_Polished.M_Rock_Marble_Polished
+[2021.01.12-23.56.42:255][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Rock_Sandstone.M_Rock_Sandstone
+[2021.01.12-23.56.42:255][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Rock_Slate.M_Rock_Slate
+[2021.01.12-23.56.42:255][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Tech_Checker_Dot.M_Tech_Checker_Dot
+[2021.01.12-23.56.42:255][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Tech_Hex_Tile.M_Tech_Hex_Tile
+[2021.01.12-23.56.42:255][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.M_Tech_Hex_Tile_Pulse
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Tech_Panel.M_Tech_Panel
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Water_Lake.M_Water_Lake
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Water_Ocean.M_Water_Ocean
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.M_Wood_Floor_Walnut_Polished
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.M_Wood_Floor_Walnut_Worn
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Wood_Oak.M_Wood_Oak
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Wood_Pine.M_Wood_Pine
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_Wood_Walnut.M_Wood_Walnut
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_CobbleStone_Rough.M_CobbleStone_Rough
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_CobbleStone_Smooth.M_CobbleStone_Smooth
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_ColorGrid_LowSpec.M_ColorGrid_LowSpec
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Concrete_Grime.M_Concrete_Grime
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Concrete_Panels.M_Concrete_Panels
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Concrete_Poured.M_Concrete_Poured
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Concrete_Tiles.M_Concrete_Tiles
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Glass.M_Glass
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Ground_Grass.M_Ground_Grass
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Ground_Gravel.M_Ground_Gravel
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Ground_Moss.M_Ground_Moss
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Metal_Chrome.M_Metal_Chrome
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Metal_Gold.M_Metal_Gold
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Metal_Rust.M_Metal_Rust
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Metal_Steel.M_Metal_Steel
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Rock_Basalt.M_Rock_Basalt
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Rock_Marble_Polished.M_Rock_Marble_Polished
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Rock_Sandstone.M_Rock_Sandstone
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Rock_Slate.M_Rock_Slate
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Tech_Checker_Dot.M_Tech_Checker_Dot
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Tech_Hex_Tile.M_Tech_Hex_Tile
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.M_Tech_Hex_Tile_Pulse
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Tech_Panel.M_Tech_Panel
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Water_Lake.M_Water_Lake
+[2021.01.12-23.56.42:256][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Water_Ocean.M_Water_Ocean
+[2021.01.12-23.56.42:257][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.M_Wood_Floor_Walnut_Polished
+[2021.01.12-23.56.42:257][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.M_Wood_Floor_Walnut_Worn
+[2021.01.12-23.56.42:257][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Wood_Oak.M_Wood_Oak
+[2021.01.12-23.56.42:257][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Wood_Pine.M_Wood_Pine
+[2021.01.12-23.56.42:257][ 75]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Materials/M_Wood_Walnut.M_Wood_Walnut
+[2021.01.12-23.57.03:334][188]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_CobbleStone_Pebble.M_CobbleStone_Pebble
+[2021.01.12-23.57.03:335][188]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0004 seconds. Added 3 classes and 0 folders.
+[2021.01.12-23.57.03:336][188]LogMaterial: Display: Missing cached shader map for material M_CobbleStone_Pebble, compiling. 
+[2021.01.12-23.57.03:712][188]LogMaterial: Display: Missing cached shader map for material M_CobbleStone_Pebble, compiling. 
+[2021.01.12-23.57.03:722][188]LogMaterial: Display: Missing cached shader map for material M_CobbleStone_Pebble, compiling. 
+[2021.01.12-23.57.03:739][188]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.01.12-23.57.03:739][188]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.01.12-23.57.03:739][188]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.01.12-23.57.03:739][188]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.01.12-23.57.03:746][188]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2021.01.12-23.57.03:754][188]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.01.12-23.57.03:759][188]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionBumpOffset_1, compiling. 
+[2021.01.12-23.57.03:763][188]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2021.01.12-23.57.03:768][188]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2021.01.12-23.57.03:774][188]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2021.01.12-23.57.03:780][188]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2021.01.12-23.57.03:805][188]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.12-23.57.04:667][207]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 35
+[2021.01.12-23.57.05:037][227]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2021.01.12-23.57.05:230][237]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2021.01.12-23.57.05:279][240]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2021.01.12-23.57.05:332][243]LogSlate: Window 'M_CobbleStone_Pebble' being destroyed
+[2021.01.12-23.57.05:341][243]LogSlate: Window 'M_CobbleStone_Pebble' being destroyed
+[2021.01.12-23.57.05:367][243]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.01.12-23.57.05:367][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.12-23.57.05:956][268]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.01.12-23.57.05:990][270]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.01.12-23.57.06:136][273]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.01.12-23.57.25:718][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.01.12-23.57.30:681][139]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.12-23.57.33:473][295]LogMaterial: Display: Missing cached shader map for material M_CobbleStone_Pebble_2, compiling. 
+[2021.01.12-23.57.33:511][295]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2021.01.12-23.57.33:511][295]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.01.12-23.57.33:511][295]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.01.12-23.57.33:511][295]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.01.12-23.57.37:469][295]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_CobbleStone_Pebble_204AFA39E4E5D334F90E3A9AD6FEBB9CB.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_CobbleStone_Pebble_2.uasset'
+[2021.01.12-23.57.37:912][295]AssetCheck: New page: Asset Save: M_CobbleStone_Pebble_2
+[2021.01.12-23.57.37:913][295]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Materials/M_CobbleStone_Pebble_2.M_CobbleStone_Pebble_2
+[2021.01.12-23.57.44:918][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.01.12-23.57.55:114][667]LogSlate: Window 'Replace References?' being destroyed
+[2021.01.12-23.57.55:121][667]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with M_CobbleStone_Pebble_2; and then delete them.
+
+Are you sure?
+[2021.01.12-23.57.55:121][667]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.12-23.57.56:430][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.12-23.57.58:688][667]LogSlate: Window 'Save Content' being destroyed
+[2021.01.12-23.57.58:846][667]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_CobbleStone_Pebble187AEFA242205FDC4D29C7B325E134AE.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Materials/M_CobbleStone_Pebble.uasset'
+[2021.01.12-23.57.58:859][667]AssetCheck: New page: Asset Save: M_CobbleStone_Pebble
+[2021.01.12-23.57.58:859][667]LogContentValidation: Display: Validating ObjectRedirector /Game/FARSIGHT/StarterContent/Materials/M_CobbleStone_Pebble.M_CobbleStone_Pebble
+[2021.01.12-23.58.09:074][179]LogSlate: Window 'Failed Renames' being destroyed
+[2021.01.12-23.58.10:323][250]LogSlate: Window 'Content Browser' being destroyed
+[2021.01.12-23.58.10:331][250]LogSlate: Window 'Content Browser' being destroyed
+[2021.01.12-23.58.12:542][383]LogSlate: Window 'Failed Renames' being destroyed
+[2021.01.12-23.58.14:092][476]LogSlate: Window 'Failed Renames' being destroyed
+[2021.01.12-23.58.38:932][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Particles/P_Ambient_Dust" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/P_Ambient_Dust.uasset" SILENT=true
+[2021.01.12-23.58.38:952][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/P_Ambient_Dust29D478D2464E7400D4F697BABDD7BA89.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/P_Ambient_Dust.uasset'
+[2021.01.12-23.58.39:214][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/P_Ambient_Dust" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/P_Ambient_Dust.uasset" SILENT=true
+[2021.01.12-23.58.39:217][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/P_Ambient_Dust1F5E5CF44C47458BA2C413856ED91917.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/P_Ambient_Dust.uasset'
+[2021.01.12-23.58.39:225][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Particles/P_Explosion" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/P_Explosion.uasset" SILENT=true
+[2021.01.12-23.58.39:258][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/P_ExplosionDC1FAD6345CBA7C128EA3CB01EA65F25.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/P_Explosion.uasset'
+[2021.01.12-23.58.39:560][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/P_Explosion" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/P_Explosion.uasset" SILENT=true
+[2021.01.12-23.58.39:562][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/P_Explosion7C3DD29E498B5FBF98B3108159585A34.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/P_Explosion.uasset'
+[2021.01.12-23.58.39:569][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Particles/P_Fire" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/P_Fire.uasset" SILENT=true
+[2021.01.12-23.58.39:612][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/P_FireEB59F50D4BAD0D5B982FBB99D084F642.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/P_Fire.uasset'
+[2021.01.12-23.58.39:882][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/P_Fire" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/P_Fire.uasset" SILENT=true
+[2021.01.12-23.58.39:885][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/P_Fire350E176F4837744AA0D551BA5D4E4E75.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/P_Fire.uasset'
+[2021.01.12-23.58.39:889][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Particles/P_Smoke" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/P_Smoke.uasset" SILENT=true
+[2021.01.12-23.58.39:901][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/P_SmokeFCB87EB441F7C7EFD7D06588A1869D34.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/P_Smoke.uasset'
+[2021.01.12-23.58.40:123][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/P_Smoke" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/P_Smoke.uasset" SILENT=true
+[2021.01.12-23.58.40:126][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/P_Smoke94F7E8D2450484BA2AE95DA8A490EF20.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/P_Smoke.uasset'
+[2021.01.12-23.58.40:131][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Particles/P_Sparks" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/P_Sparks.uasset" SILENT=true
+[2021.01.12-23.58.40:152][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/P_SparksFFE5D5CA457ED24F119621A9E0767A55.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/P_Sparks.uasset'
+[2021.01.12-23.58.40:386][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/P_Sparks" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/P_Sparks.uasset" SILENT=true
+[2021.01.12-23.58.40:389][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/P_Sparks567CFA784B57564898E72C9480CA901C.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/P_Sparks.uasset'
+[2021.01.12-23.58.40:394][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Particles/P_Steam_Lit" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/P_Steam_Lit.uasset" SILENT=true
+[2021.01.12-23.58.40:407][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/P_Steam_Lit9AAA39954ABE3AC72B5FC48DC8C46A31.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/P_Steam_Lit.uasset'
+[2021.01.12-23.58.40:686][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/P_Steam_Lit" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/P_Steam_Lit.uasset" SILENT=true
+[2021.01.12-23.58.40:689][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/P_Steam_Lit6F1BBC784F9016A9E71EF7AF3A1546A2.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/P_Steam_Lit.uasset'
+[2021.01.12-23.58.40:722][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Particles/Materials/M_Burst" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/Materials/M_Burst.uasset" SILENT=true
+[2021.01.12-23.58.40:732][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_BurstBCC46CFC48176EC6429E2DB1E7F04060.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/Materials/M_Burst.uasset'
+[2021.01.12-23.58.40:970][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/Materials/M_Burst" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/Materials/M_Burst.uasset" SILENT=true
+[2021.01.12-23.58.40:972][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Burst75B3BA314B682CA8D2E94BA19C60E3F8.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/Materials/M_Burst.uasset'
+[2021.01.12-23.58.41:011][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Dust_ParticleB197F3CC4815B3C19BEA05A3F9969AED.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/Materials/M_Dust_Particle.uasset'
+[2021.01.12-23.58.41:242][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/Materials/M_Dust_Particle" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" SILENT=true
+[2021.01.12-23.58.41:244][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Dust_ParticleF7D6A7F74D4D0EB33FA0E1BDB30026CA.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset'
+[2021.01.12-23.58.41:281][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_explosion_subUVC8C2D3A443240651ABE276B752CEE18F.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/Materials/M_explosion_subUV.uasset'
+[2021.01.12-23.58.41:509][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/Materials/M_explosion_subUV" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" SILENT=true
+[2021.01.12-23.58.41:511][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_explosion_subUV752E40DE4252B359F450299FC6B7956D.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset'
+[2021.01.12-23.58.41:551][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Fire_SubUV51029276470688B7428096921D386977.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/Materials/M_Fire_SubUV.uasset'
+[2021.01.12-23.58.41:804][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/Materials/M_Fire_SubUV" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" SILENT=true
+[2021.01.12-23.58.41:806][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Fire_SubUV2245B5BD4F6F14CD380050B8B55F7802.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset'
+[2021.01.12-23.58.41:842][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/m_flare_01AD24508649A46F32D9F2E4B65741AC81.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/Materials/m_flare_01.uasset'
+[2021.01.12-23.58.42:074][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/Materials/m_flare_01" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/Materials/m_flare_01.uasset" SILENT=true
+[2021.01.12-23.58.42:077][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/m_flare_01DAB202534DAE526CC06D61AB5053212C.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/Materials/m_flare_01.uasset'
+[2021.01.12-23.58.42:118][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Heat_DistortionE747A64C4FD57FE81A97478D7E06AB7F.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/Materials/M_Heat_Distortion.uasset'
+[2021.01.12-23.58.42:347][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/Materials/M_Heat_Distortion" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" SILENT=true
+[2021.01.12-23.58.42:349][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Heat_Distortion65B229774F675CCDFE84F5927A9DBB7B.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset'
+[2021.01.12-23.58.42:387][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Radial_Gradient0209F908419A32C989DE47B7CBDDE086.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/Materials/M_Radial_Gradient.uasset'
+[2021.01.12-23.58.42:668][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/Materials/M_Radial_Gradient" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" SILENT=true
+[2021.01.12-23.58.42:670][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Radial_Gradient8753BB2341C69DFE0420889EACC77B54.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset'
+[2021.01.12-23.58.42:704][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_radial_ramp807A4CA941C151695FF33C8F8867E106.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/Materials/M_radial_ramp.uasset'
+[2021.01.12-23.58.42:974][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/Materials/M_radial_ramp" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" SILENT=true
+[2021.01.12-23.58.42:977][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_radial_rampD957B6454BE98443D96F43BFBC728E55.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset'
+[2021.01.12-23.58.43:019][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_smoke_subUV67B84EF4452A61EE27F1F492AD502962.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/Materials/M_smoke_subUV.uasset'
+[2021.01.12-23.58.43:302][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/Materials/M_smoke_subUV" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" SILENT=true
+[2021.01.12-23.58.43:304][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_smoke_subUVEBCF6AFB4A8FB50E8D667F86DCDE5A41.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset'
+[2021.01.12-23.58.43:332][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Particles/Materials/M_Spark" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/Materials/M_Spark.uasset" SILENT=true
+[2021.01.12-23.58.43:340][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_SparkCA088BE1401CFB8AEFC05598ED01FAD4.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Particles/Materials/M_Spark.uasset'
+[2021.01.12-23.58.43:575][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/Materials/M_Spark" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/Materials/M_Spark.uasset" SILENT=true
+[2021.01.12-23.58.43:578][751]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Spark0FAC89D5499799AA69B73591B64F48E0.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Particles/Materials/M_Spark.uasset'
+[2021.01.12-23.58.49:375][751]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.12-23.58.49:376][751]LogContentValidation: Display: Validating ParticleSystem /Game/FARSIGHT/StarterContent/Particles/P_Explosion.P_Explosion
+[2021.01.12-23.58.49:376][751]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV
+[2021.01.12-23.58.49:376][751]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Particles/Materials/M_radial_ramp.M_radial_ramp
+[2021.01.12-23.58.49:376][751]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Particles/Materials/m_flare_01.m_flare_01
+[2021.01.12-23.58.49:376][751]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Particles/Materials/M_explosion_subUV.M_explosion_subUV
+[2021.01.12-23.58.49:376][751]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Particles/Materials/M_Burst.M_Burst
+[2021.01.12-23.58.49:376][751]LogContentValidation: Display: Validating ParticleSystem /Game/FARSIGHT/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust
+[2021.01.12-23.58.49:376][751]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Particles/Materials/M_Dust_Particle.M_Dust_Particle
+[2021.01.12-23.58.49:376][751]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Particles/Materials/M_Fire_SubUV.M_Fire_SubUV
+[2021.01.12-23.58.49:376][751]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Particles/Materials/M_Heat_Distortion.M_Heat_Distortion
+[2021.01.12-23.58.49:376][751]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Particles/Materials/M_Radial_Gradient.M_Radial_Gradient
+[2021.01.12-23.58.49:376][751]LogContentValidation: Display: Validating ParticleSystem /Game/FARSIGHT/StarterContent/Particles/P_Fire.P_Fire
+[2021.01.12-23.58.49:376][751]LogContentValidation: Display: Validating ParticleSystem /Game/FARSIGHT/StarterContent/Particles/P_Smoke.P_Smoke
+[2021.01.12-23.58.49:376][751]LogContentValidation: Display: Validating Material /Game/FARSIGHT/StarterContent/Particles/Materials/M_Spark.M_Spark
+[2021.01.12-23.58.49:376][751]LogContentValidation: Display: Validating ParticleSystem /Game/FARSIGHT/StarterContent/Particles/P_Sparks.P_Sparks
+[2021.01.12-23.58.49:376][751]LogContentValidation: Display: Validating ParticleSystem /Game/FARSIGHT/StarterContent/Particles/P_Steam_Lit.P_Steam_Lit
+[2021.01.12-23.58.49:376][751]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust
+[2021.01.12-23.58.49:376][751]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/P_Explosion.P_Explosion
+[2021.01.12-23.58.49:376][751]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/P_Fire.P_Fire
+[2021.01.12-23.58.49:376][751]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/P_Smoke.P_Smoke
+[2021.01.12-23.58.49:376][751]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/P_Sparks.P_Sparks
+[2021.01.12-23.58.49:376][751]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/P_Steam_Lit.P_Steam_Lit
+[2021.01.12-23.58.49:377][751]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Materials/M_Burst.M_Burst
+[2021.01.12-23.58.49:377][751]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Materials/M_Dust_Particle.M_Dust_Particle
+[2021.01.12-23.58.49:377][751]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Materials/M_explosion_subUV.M_explosion_subUV
+[2021.01.12-23.58.49:377][751]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Materials/M_Fire_SubUV.M_Fire_SubUV
+[2021.01.12-23.58.49:377][751]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Materials/m_flare_01.m_flare_01
+[2021.01.12-23.58.49:377][751]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Materials/M_Heat_Distortion.M_Heat_Distortion
+[2021.01.12-23.58.49:377][751]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Materials/M_Radial_Gradient.M_Radial_Gradient
+[2021.01.12-23.58.49:377][751]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Materials/M_radial_ramp.M_radial_ramp
+[2021.01.12-23.58.49:377][751]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Materials/M_smoke_subUV.M_smoke_subUV
+[2021.01.12-23.58.49:377][751]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Materials/M_Spark.M_Spark
+[2021.01.12-23.58.56:969][197]LogActorFactory: Actor Factory created MaterialSphere
+[2021.01.12-23.58.56:969][197]LogActorFactory: Actor Factory created SM_Bush
+[2021.01.12-23.58.56:970][197]LogActorFactory: Actor Factory created SM_CornerFrame
+[2021.01.12-23.58.56:970][197]LogActorFactory: Actor Factory created SM_Couch
+[2021.01.12-23.58.56:970][197]LogActorFactory: Actor Factory created SM_Door
+[2021.01.12-23.58.56:971][197]LogActorFactory: Actor Factory created SM_DoorFrame
+[2021.01.12-23.58.56:971][197]LogActorFactory: Actor Factory created SM_GlassWindow
+[2021.01.12-23.58.56:971][197]LogActorFactory: Actor Factory created SM_Lamp_Ceiling
+[2021.01.12-23.58.56:972][197]LogActorFactory: Actor Factory created SM_Lamp_Wall
+[2021.01.12-23.58.56:972][197]LogActorFactory: Actor Factory created SM_MatPreviewMesh_02
+[2021.01.12-23.58.56:973][197]LogActorFactory: Actor Factory created SM_PillarFrame
+[2021.01.12-23.58.56:974][197]LogActorFactory: Actor Factory created SM_PillarFrame300
+[2021.01.12-23.58.56:975][197]LogActorFactory: Actor Factory created SM_Rock
+[2021.01.12-23.58.56:975][197]LogActorFactory: Actor Factory created SM_Shelf
+[2021.01.12-23.58.56:975][197]LogActorFactory: Actor Factory created SM_Stairs
+[2021.01.12-23.58.56:976][197]LogActorFactory: Actor Factory created SM_WindowFrame
+[2021.01.12-23.59.00:114][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Props/Materials/M_Bush" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/Materials/M_Bush.uasset" SILENT=true
+[2021.01.12-23.59.00:123][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Bush47C002C64E4A2DAD635B91B9F85D1EE0.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/Materials/M_Bush.uasset'
+[2021.01.12-23.59.00:414][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Materials/M_Bush" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/Materials/M_Bush.uasset" SILENT=true
+[2021.01.12-23.59.00:416][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Bush0A2B62E44051C75A54C371B7E14BB112.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/Materials/M_Bush.uasset'
+[2021.01.12-23.59.00:443][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Props/Materials/M_Frame" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/Materials/M_Frame.uasset" SILENT=true
+[2021.01.12-23.59.00:453][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_FrameC485605F4C334BED1918839A574E920E.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/Materials/M_Frame.uasset'
+[2021.01.12-23.59.00:737][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Materials/M_Frame" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/Materials/M_Frame.uasset" SILENT=true
+[2021.01.12-23.59.00:740][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Frame1766038E47B775F99EC9D5A151B67C10.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/Materials/M_Frame.uasset'
+[2021.01.12-23.59.00:766][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Props/Materials/M_Door" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/Materials/M_Door.uasset" SILENT=true
+[2021.01.12-23.59.00:778][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Door9956D6C046F3D5713E23FA82E5E12BD3.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/Materials/M_Door.uasset'
+[2021.01.12-23.59.01:026][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Materials/M_Door" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/Materials/M_Door.uasset" SILENT=true
+[2021.01.12-23.59.01:028][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Door059043F7459F46B90F212CBAEDDC018F.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/Materials/M_Door.uasset'
+[2021.01.12-23.59.01:055][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Props/Materials/M_Lamp" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/Materials/M_Lamp.uasset" SILENT=true
+[2021.01.12-23.59.01:067][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Lamp205305CF429B5BF4816B0EBD1AB6D427.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/Materials/M_Lamp.uasset'
+[2021.01.12-23.59.01:299][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Materials/M_Lamp" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/Materials/M_Lamp.uasset" SILENT=true
+[2021.01.12-23.59.01:302][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Lamp221FB40C4865753C685EE1880C21F214.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/Materials/M_Lamp.uasset'
+[2021.01.12-23.59.01:338][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_MaterialSphere9E35336D4D4A3C27659F219057BDC1A1.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/Materials/M_MaterialSphere.uasset'
+[2021.01.12-23.59.01:576][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Materials/M_MaterialSphere" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" SILENT=true
+[2021.01.12-23.59.01:579][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_MaterialSphere7C562D66485597BD4C90D8960A81E4BC.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset'
+[2021.01.12-23.59.01:613][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_MaterialSphere_Plain7A387F57486553B3537CAEA96C13EC9F.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset'
+[2021.01.12-23.59.01:864][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_MaterialSphere_Plain41F178754165C08303D101A8F060A30B.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset'
+[2021.01.12-23.59.01:891][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Props/Materials/M_Rock" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/Materials/M_Rock.uasset" SILENT=true
+[2021.01.12-23.59.01:902][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Rock4CF407544AC9827C61EF5DB74FB3A314.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/Materials/M_Rock.uasset'
+[2021.01.12-23.59.02:155][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Materials/M_Rock" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/Materials/M_Rock.uasset" SILENT=true
+[2021.01.12-23.59.02:157][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_Rock3D00BB1041DB46F5018F3DB2B5BF555B.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/Materials/M_Rock.uasset'
+[2021.01.12-23.59.02:184][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Props/Materials/M_Shelf" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/Materials/M_Shelf.uasset" SILENT=true
+[2021.01.12-23.59.02:194][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_ShelfFDBA969B4E155842475BF1B67CFCC089.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/Materials/M_Shelf.uasset'
+[2021.01.12-23.59.02:433][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Materials/M_Shelf" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/Materials/M_Shelf.uasset" SILENT=true
+[2021.01.12-23.59.02:435][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/M_ShelfD35E54C1405B053F65B5D8A7AD3CE387.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/Materials/M_Shelf.uasset'
+[2021.01.12-23.59.07:942][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Props/MaterialSphere" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/MaterialSphere.uasset" SILENT=true
+[2021.01.12-23.59.07:957][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/MaterialSphere49BE6259442E245EFD7D62AF8A115997.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/MaterialSphere.uasset'
+[2021.01.12-23.59.08:263][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/MaterialSphere" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/MaterialSphere.uasset" SILENT=true
+[2021.01.12-23.59.08:265][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/MaterialSphereE35DAEE749C5E209396EDEAF9B55A6F3.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/MaterialSphere.uasset'
+[2021.01.12-23.59.08:295][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Props/SM_Bush" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_Bush.uasset" SILENT=true
+[2021.01.12-23.59.08:307][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_Bush739AF4E643050A212467BB8ED19B4D2C.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_Bush.uasset'
+[2021.01.12-23.59.08:581][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Bush" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_Bush.uasset" SILENT=true
+[2021.01.12-23.59.08:583][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_BushBC2FFD0B4F854CAFCC2ADD86DFE81262.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_Bush.uasset'
+[2021.01.12-23.59.08:611][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Props/SM_CornerFrame" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_CornerFrame.uasset" SILENT=true
+[2021.01.12-23.59.08:622][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_CornerFrame4D2313FF4388F7274E7ACE8F9EA3064A.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_CornerFrame.uasset'
+[2021.01.12-23.59.08:868][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_CornerFrame" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_CornerFrame.uasset" SILENT=true
+[2021.01.12-23.59.08:870][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_CornerFrameD55E379546D69495E21F1EA98D218615.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_CornerFrame.uasset'
+[2021.01.12-23.59.08:898][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Props/SM_Couch" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_Couch.uasset" SILENT=true
+[2021.01.12-23.59.08:926][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_CouchD5612DAF4872F30CA921639A02652128.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_Couch.uasset'
+[2021.01.12-23.59.09:197][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Couch" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_Couch.uasset" SILENT=true
+[2021.01.12-23.59.09:199][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_CouchA441B459414676F8D30A98BD1C0246F2.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_Couch.uasset'
+[2021.01.12-23.59.09:228][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Props/SM_Door" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_Door.uasset" SILENT=true
+[2021.01.12-23.59.09:241][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_DoorF4A084244C0E296146861BAEDA62C7FE.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_Door.uasset'
+[2021.01.12-23.59.09:490][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Door" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_Door.uasset" SILENT=true
+[2021.01.12-23.59.09:492][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_Door5B746492412F27CFC2B0C6BF46A0768B.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_Door.uasset'
+[2021.01.12-23.59.09:521][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Props/SM_DoorFrame" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_DoorFrame.uasset" SILENT=true
+[2021.01.12-23.59.09:531][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_DoorFrameD1C0F9004B099A2C8C7060ADF33B4BDE.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_DoorFrame.uasset'
+[2021.01.12-23.59.09:786][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_DoorFrame" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_DoorFrame.uasset" SILENT=true
+[2021.01.12-23.59.09:789][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_DoorFrame748209FA43D36A4FD2FCFC84AA1B2CCA.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_DoorFrame.uasset'
+[2021.01.12-23.59.09:816][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Props/SM_GlassWindow" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_GlassWindow.uasset" SILENT=true
+[2021.01.12-23.59.09:832][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_GlassWindow6B4D8DFC475301CD4527C1B6775CD436.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_GlassWindow.uasset'
+[2021.01.12-23.59.10:083][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_GlassWindow" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_GlassWindow.uasset" SILENT=true
+[2021.01.12-23.59.10:086][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_GlassWindow2BB276114C7DD40B47B409BFBB91765E.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_GlassWindow.uasset'
+[2021.01.12-23.59.10:114][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Props/SM_Lamp_Ceiling" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_Lamp_Ceiling.uasset" SILENT=true
+[2021.01.12-23.59.10:130][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_Lamp_Ceiling628D112E450FA0958ABA8C851499303D.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_Lamp_Ceiling.uasset'
+[2021.01.12-23.59.10:382][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Lamp_Ceiling" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" SILENT=true
+[2021.01.12-23.59.10:385][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_Lamp_CeilingA94AFE5C48DD49F4F19DA09E4DF0ADE0.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset'
+[2021.01.12-23.59.10:413][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Props/SM_Lamp_Wall" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_Lamp_Wall.uasset" SILENT=true
+[2021.01.12-23.59.10:424][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_Lamp_Wall5D5746F7476C9472B5379B9EA2C14183.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_Lamp_Wall.uasset'
+[2021.01.12-23.59.10:673][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Lamp_Wall" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_Lamp_Wall.uasset" SILENT=true
+[2021.01.12-23.59.10:675][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_Lamp_Wall37D18DB2433FADA2DC0D32BFFD957916.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_Lamp_Wall.uasset'
+[2021.01.12-23.59.10:704][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Props/SM_MatPreviewMesh_02" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_MatPreviewMesh_02.uasset" SILENT=true
+[2021.01.12-23.59.10:756][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_MatPreviewMesh_0220D979EF41FF7D660AB99FAE71EE9143.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_MatPreviewMesh_02.uasset'
+[2021.01.12-23.59.11:062][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_MatPreviewMesh_02" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" SILENT=true
+[2021.01.12-23.59.11:065][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_MatPreviewMesh_024892DD44475A72213C019EBEF9EFE967.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset'
+[2021.01.12-23.59.11:094][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Props/SM_PillarFrame" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_PillarFrame.uasset" SILENT=true
+[2021.01.12-23.59.11:106][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_PillarFrame3938D7A0462A7CAB8E7331AA0F4A3D0E.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_PillarFrame.uasset'
+[2021.01.12-23.59.11:345][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_PillarFrame" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_PillarFrame.uasset" SILENT=true
+[2021.01.12-23.59.11:348][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_PillarFrameAA799C2442563CBED42AF0AE00D964B8.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_PillarFrame.uasset'
+[2021.01.12-23.59.11:376][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Props/SM_PillarFrame300" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_PillarFrame300.uasset" SILENT=true
+[2021.01.12-23.59.11:388][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_PillarFrame3002D51D9C649F8E8FA77C83382E7B187B1.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_PillarFrame300.uasset'
+[2021.01.12-23.59.11:649][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_PillarFrame300" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_PillarFrame300.uasset" SILENT=true
+[2021.01.12-23.59.11:652][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_PillarFrame30044993474414837E39A9ABF889F497ED1.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_PillarFrame300.uasset'
+[2021.01.12-23.59.11:683][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Props/SM_Rock" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_Rock.uasset" SILENT=true
+[2021.01.12-23.59.11:697][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_RockA841A50A423666E1248EDE8DDA54B364.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_Rock.uasset'
+[2021.01.12-23.59.11:950][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Rock" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_Rock.uasset" SILENT=true
+[2021.01.12-23.59.11:952][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_Rock4FC30461466946D8E94D8E8260A5F527.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_Rock.uasset'
+[2021.01.12-23.59.11:980][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Props/SM_Shelf" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_Shelf.uasset" SILENT=true
+[2021.01.12-23.59.11:991][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_ShelfCB03D5514092187237D32EB381893536.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_Shelf.uasset'
+[2021.01.12-23.59.12:228][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Shelf" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_Shelf.uasset" SILENT=true
+[2021.01.12-23.59.12:230][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_ShelfA17E0D64408AA6ABFF9D9AACFEE2ED57.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_Shelf.uasset'
+[2021.01.12-23.59.12:259][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Props/SM_Stairs" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_Stairs.uasset" SILENT=true
+[2021.01.12-23.59.12:271][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_Stairs7E2E47F741050AC07B1004862C4F5587.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_Stairs.uasset'
+[2021.01.12-23.59.12:523][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Stairs" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_Stairs.uasset" SILENT=true
+[2021.01.12-23.59.12:525][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_Stairs25BFC9244FDB2859F9C1E38D418075FC.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_Stairs.uasset'
+[2021.01.12-23.59.12:553][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FARSIGHT/StarterContent/Props/SM_WindowFrame" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_WindowFrame.uasset" SILENT=true
+[2021.01.12-23.59.12:563][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_WindowFrame6A6B2F9F458179CA2B4435AD0B788F80.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/FARSIGHT/StarterContent/Props/SM_WindowFrame.uasset'
+[2021.01.12-23.59.12:826][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_WindowFrame" FILE="D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_WindowFrame.uasset" SILENT=true
+[2021.01.12-23.59.12:828][266]LogSavePackage: Moving 'D:/DD-PRODUCTION/UE4/GITHUB/Saved/SM_WindowFrame6C88B96A438329D652EBA1B295751600.tmp' to 'D:/DD-PRODUCTION/UE4/GITHUB/Content/StarterContent/Props/SM_WindowFrame.uasset'
+[2021.01.12-23.59.18:553][266]LogD3D11RHI: Error: SwapChain->ResizeBuffers(0, SizeX, SizeY, RenderTargetFormat, SwapChainFlags) failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:295 
+ with error E_OUTOFMEMORY, 
+ (Size=8x8 Fullscreen=0 Format=DXGI_FORMAT_R10G10B10A2_UNORM(0x00000018)) -> (Size=532x90 Fullscreen=0 Format=DXGI_FORMAT_R10G10B10A2_UNORM(0x00000018))
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     64 = 24576 KB (2D 6144x2048 PF_ShadowDepth) WholeSceneShadowmap
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     62 = 24576 KB (2D 6144x2048 PF_ShadowDepth) WholeSceneShadowmap
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     65 = 24576 KB (2D 6144x2048 PF_ShadowDepth) WholeSceneShadowmap
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     56 = 5399 KB (2D 1208x572 PF_FloatRGBA RT UAV VRam) SceneColorDeferred VRamInKB(Start/Size):<NONE>
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     71 = 5399 KB (2D 1208x572 PF_FloatRGBA RT UAV) DistortedSceneColor
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     35 = 5399 KB (2D 1208x572 PF_FloatRGBA RT UAV) LightAccumulation
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     73 = 5399 KB (2D 1208x572 PF_FloatRGBA RT UAV) ScreenSpaceReflections unused(69)
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     95 = 5399 KB (2D 1208x572 PF_FloatRGBA RT) SceneColor
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     54 = 5399 KB (2D 1208x572 PF_FloatRGBA RT) SceneColor
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     51 = 5399 KB (2D 1208x572 PF_FloatRGBA RT) SeparateTranslucencyColor
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     63 = 5399 KB (2D 1208x572 PF_FloatRGBA UAV) SSRTemporalAA
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     70 = 5399 KB (2D 1208x572 PF_FloatRGBA UAV) TemporalAA unused(69)
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     79 = 3374 KB (2D 1208x572 PF_DepthStencil 4xMSAA) EditorPrimitivesDepth unused(69)
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     67 = 3374 KB (2D 1208x572 PF_DepthStencil 4xMSAA) SelectionOutline unused(69)
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     26 = 3374 KB (2D 1208x572 PF_DepthStencil VRam) SceneDepthZ VRamInKB(Start/Size):<NONE>
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     61 = 2700 KB (2D 1208x572 PF_A2B10G10R10 RT) GBufferA
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     93 = 2700 KB (2D 1208x572 PF_B8G8R8A8 RT 4xMSAA) EditorPrimitivesColor unused(69)
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     59 = 2700 KB (2D 1208x572 PF_B8G8R8A8 RT sRGB) GBufferC
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     72 = 2700 KB (2D 1208x572 PF_B8G8R8A8 RT VRam) FXAA unused(69) VRamInKB(Start/Size):<NONE>
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     60 = 2700 KB (2D 1208x572 PF_B8G8R8A8 RT VRam) GBufferE VRamInKB(Start/Size):<NONE>
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     55 = 2700 KB (2D 1208x572 PF_B8G8R8A8 RT VRam) ShadowMaskTexture VRamInKB(Start/Size):<NONE>
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     57 = 2700 KB (2D 1208x572 PF_B8G8R8A8 RT) GBufferB
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     58 = 2700 KB (2D 1208x572 PF_B8G8R8A8 RT) GBufferD
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     94 = 2700 KB (2D 1208x572 PF_B8G8R8A8 RT) HitProxy unused(69)
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     66 = 2700 KB (2D 1208x572 PF_B8G8R8A8 RT) Tonemap
+[2021.01.12-23.59.22:416][266]LogConsoleResponse:     29 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume0
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:     31 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume1
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:     33 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume2
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:     30 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir0
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:     32 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir1
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:     34 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir2
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:     77 = 2048 KB (Cube[2] 128 PF_FloatRGBA) ReflectionEnvs
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:     27 = 1687 KB (2D 604x286 PF_DepthStencil) SmallDepthZ
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:     85 = 1366 KB (2D 1024x512 PF_R16F UAV VRam) HZBFurthest unused(69) VRamInKB(Start/Size):<NONE>
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:     36 = 1350 KB (2D 1208x286 PF_R32_UINT RT UAV) QuadOverdrawBuffer
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:     78 = 1350 KB (2D 604x286 PF_FloatRGBA RT) AmbientOcclusionSetup unused(69)
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:     80 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap0
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:     81 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap1
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:     28 = 675 KB (2D 1208x572 PF_G8 RT UAV) ScreenSpaceAO
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:     74 = 675 KB (2D 604x286 PF_B8G8R8A8 RT) AmbientOcclusion unused(69)
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:     50 = 675 KB (2D 604x286 PF_FloatRGB RT VRam) BloomX VRamInKB(Start/Size):<NONE>
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:     38 = 675 KB (2D 604x286 PF_FloatRGB RT) BloomY
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:     92 = 512 KB (3D 256x128x2 PF_FloatRGBA RT) AtmosphereDeltaJ
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:     91 = 512 KB (3D 256x128x2 PF_FloatRGBA RT) AtmosphereDeltaSM
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:     90 = 512 KB (3D 256x128x2 PF_FloatRGBA RT) AtmosphereDeltaSR
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:     89 = 512 KB (3D 256x128x2 PF_FloatRGBA RT) AtmosphereInscatter
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:      1 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:      3 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:      2 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:      4 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:     49 = 169 KB (2D 302x143 PF_FloatRGB RT VRam) BloomX VRamInKB(Start/Size):<NONE>
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:     39 = 169 KB (2D 302x143 PF_FloatRGB RT) BloomY
+[2021.01.12-23.59.22:417][266]LogConsoleResponse:     86 = 128 KB (2D 256x64 PF_FloatRGBA RT) AtmosphereTransmittance
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     37 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUT VRamInKB(Start/Size):<NONE>
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     53 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     11 = 64 KB (2D 128x128 PF_B8G8R8A8) PerlinNoiseGradient
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     82 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap0
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     83 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap1
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     44 = 49 KB (2D 98x64 PF_A16B16G16R16) SSProfiles
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     48 = 43 KB (2D 151x72 PF_FloatRGB RT VRam) BloomX VRamInKB(Start/Size):<NONE>
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     40 = 43 KB (2D 151x72 PF_FloatRGB RT) BloomY
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     23 = 32 KB (2D 64x64 PF_FloatRGBA VRam) LTCMat VRamInKB(Start/Size):<NONE>
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     19 = 16 KB (2D 128x32 PF_G16R16) PreintegratedGF
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     24 = 16 KB (2D 64x64 PF_G16R16F VRam) LTCAmp VRamInKB(Start/Size):<NONE>
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     20 = 16 KB (3D 16x16x16 PF_B8G8R8A8) PerlinNoise3D
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     69 = 12 KB (2D 16x90 PF_FloatRGBA RT UAV VRam) Histogram unused(69) VRamInKB(Start/Size):<NONE>
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     47 = 11 KB (2D 76x36 PF_FloatRGB RT VRam) BloomX VRamInKB(Start/Size):<NONE>
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     41 = 11 KB (2D 76x36 PF_FloatRGB RT) BloomY
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     88 = 8 KB (2D 64x16 PF_FloatRGBA RT) AtmosphereDeltaE
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     87 = 8 KB (2D 64x16 PF_FloatRGBA RT) AtmosphereIrradiance
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     21 = 8 KB (2D 64x64 PF_R8G8) SSAORandomization
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     25 = 8 KB (3D 16x16x16 PF_R16F) GTAOPreIntegrated
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     46 = 3 KB (2D 38x18 PF_FloatRGB RT VRam) BloomX VRamInKB(Start/Size):<NONE>
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     42 = 3 KB (2D 38x18 PF_FloatRGB RT) BloomY
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     68 = 1 KB (2D 16x2 PF_A32B32G32R32F RT VRam) HistogramReduce unused(69) VRamInKB(Start/Size):<NONE>
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     45 = 1 KB (2D 19x9 PF_FloatRGB RT VRam) BloomX VRamInKB(Start/Size):<NONE>
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     43 = 1 KB (2D 19x9 PF_FloatRGB RT) BloomY
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     52 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     76 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2021.01.12-23.59.22:418][266]LogConsoleResponse:     75 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2021.01.12-23.59.22:419][266]LogConsoleResponse:      8 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackAlphaOneDummy
+[2021.01.12-23.59.22:419][266]LogConsoleResponse:      6 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackDummy
+[2021.01.12-23.59.22:419][266]LogConsoleResponse:     10 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) DefaultNormal8Bit
+[2021.01.12-23.59.22:419][266]LogConsoleResponse:      9 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) GreenDummy
+[2021.01.12-23.59.22:419][266]LogConsoleResponse:      5 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) WhiteDummy
+[2021.01.12-23.59.22:419][266]LogConsoleResponse:     13 = 1 KB (2D 1x1 PF_DepthStencil) DepthDummy
+[2021.01.12-23.59.22:419][266]LogConsoleResponse:     12 = 1 KB (2D 1x1 PF_FloatRGBA RT) MaxFP16Depth
+[2021.01.12-23.59.22:419][266]LogConsoleResponse:     15 = 1 KB (2D 1x1 PF_FloatRGBA RT) MidGreyDummy
+[2021.01.12-23.59.22:419][266]LogConsoleResponse:      7 = 1 KB (2D 1x1 PF_R32_UINT RT) ZeroUIntDummy
+[2021.01.12-23.59.22:419][266]LogConsoleResponse:     14 = 1 KB (2D 1x1 PF_R8G8B8A8_UINT RT) StencilDummy
+[2021.01.12-23.59.22:419][266]LogConsoleResponse:     16 = 1 KB (2D 32x16 PF_R16_UINT) SobolSampling
+[2021.01.12-23.59.22:419][266]LogConsoleResponse:     22 = 1 KB (2D 4x4 PF_R8G8B8A8) GTAORandomization
+[2021.01.12-23.59.22:419][266]LogConsoleResponse:     84 = 1 KB (2D 9x1 PF_FloatRGBA RT) SkySHIrradianceMap
+[2021.01.12-23.59.22:419][266]LogConsoleResponse:     18 = 1 KB (3D 1x1x1 PF_B8G8R8A8 RT) HairLUT0
+[2021.01.12-23.59.22:419][266]LogConsoleResponse:     17 = 1 KB (3D 1x1x1 PF_B8G8R8A8 RT) VolumetricBlackDummy
+[2021.01.12-23.59.22:419][266]LogConsoleResponse: 
+[2021.01.12-23.59.22:419][266]LogConsoleResponse: Pool: 43/185 MB (referenced/allocated)
+[2021.01.12-23.59.22:419][266]Cmd: rhi.DumpMemory
+[2021.01.12-23.59.22:428][266]RHI resource memory (not tracked by our allocator)
+[2021.01.12-23.59.22:428][266]               0  -  Pixel buffer memory - STAT_PixelBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2021.01.12-23.59.22:428][266]          701932  -  Structured buffer memory - STAT_StructuredBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2021.01.12-23.59.22:428][266]         4534268  -  Vertex buffer memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2021.01.12-23.59.22:428][266]         4506850  -  Index buffer memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2021.01.12-23.59.22:428][266]        14030624  -  Uniform buffer memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2021.01.12-23.59.22:428][266]        56688660  -  Texture memory Cube - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2021.01.12-23.59.22:428][266]          704588  -  Texture memory 3D - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2021.01.12-23.59.22:428][266]       335689692  -  Texture memory 2D - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2021.01.12-23.59.22:428][266]         2228160  -  Render target memory Cube - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2021.01.12-23.59.22:428][266]        14999734  -  Render target memory 3D - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2021.01.12-23.59.22:428][266]       376613769  -  Render target memory 2D - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2021.01.12-23.59.22:428][266]773.142MB total
+[2021.01.12-23.59.22:428][266]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.01.12-23.59.22:428][266]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.01.12-23.59.22:466][266]Log file closed, 01/12/21 23:59:22
